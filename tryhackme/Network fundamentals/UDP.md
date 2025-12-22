@@ -38,7 +38,7 @@ UDP packets are much simpler than TCP packets and have fewer headers. However, b
 Next, we'll come on to discuss how the process of a connection via UDP differs from that of something such as TCP.  We should recall that UDP is **stateless**. No acknowledgement is sent during a connection.
 
   
-
+aaa
 The diagram below shows a normal UDP connection between Alice and Bob. In real life, this would be between two devices.
 
 ![](https://tryhackme-images.s3.amazonaws.com/user-uploads/5de96d9ca744773ea7ef8c00/room-content/53d459ccda57e5fdea0dafe7e64ffe7c.svg)
