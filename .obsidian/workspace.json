@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tryhackme/xss.md",
+                "file": "tryhackme/rita.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "xss"
+              "title": "rita"
             }
           }
         ]
@@ -171,8 +171,10 @@
   },
   "active": "8f4a317c18b774d8",
   "lastOpenFiles": [
-    "tryhackme/linux fundamentals/logs.md",
+    "tryhackme/phishing.md",
+    "tryhackme/rita.md",
     "tryhackme/xss.md",
+    "tryhackme/linux fundamentals/logs.md",
     "tryhackme/linux fundamentals/maintenance and automation.md",
     "tryhackme/linux fundamentals/processes.md",
     "tryhackme/linux fundamentals/General and useful utilities.md",
