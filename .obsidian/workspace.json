@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tryhackme/windows fundementals/Windows Registry.md",
+                "file": "tryhackme/search skills/Tools Documentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windows Registry"
+              "title": "Tools Documentation"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overthewire/Bandit.md",
+                "file": "tryhackme/search skills/Tools Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bandit"
+              "title": "Backlinks for Tools Documentation"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overthewire/Bandit.md",
+                "file": "tryhackme/search skills/Tools Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Bandit"
+              "title": "Outgoing links from Tools Documentation"
             }
           },
           {
@@ -142,16 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overthewire/Bandit.md",
+                "file": "tryhackme/search skills/Tools Documentation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bandit"
+              "title": "Outline of Tools Documentation"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -171,37 +172,39 @@
   },
   "active": "8f4a317c18b774d8",
   "lastOpenFiles": [
-    "tryhackme/windows fundementals/Command Prompt.md",
-    "tryhackme/windows fundementals/Windows Registry.md",
+    "tryhackme/search skills/Vulnerabilities and Exploits.md",
+    "tryhackme/search skills/Tools Documentation.md",
+    "tryhackme/search skills/Specialized Search Engines.md",
+    "tryhackme/search skills/Search Engines.md",
+    "tryhackme/search skills/Untitled.canvas",
+    "tryhackme/search skills",
+    "tryhackme/Tryhackme Links.md",
+    "tryhackme/windows fundementals/extra windows.md",
     "tryhackme/windows fundementals/Resource Monitor.md",
+    "tryhackme/windows fundementals/File system.md",
+    "tryhackme/HOW THE WEB WORKS/WEB Basics Links.md",
+    "tryhackme/Network fundamentals/Network fundamentals Links.md",
+    "tryhackme/linux fundamentals/Linux Fundementals Links.md",
+    "tryhackme/HOW THE WEB WORKS/DNS in Detail.md",
+    "tryhackme/windows fundementals/Volume Shadow Copy Service.md",
+    "tryhackme/windows fundementals/Windows Security.md",
+    "tryhackme/windows fundementals/User Account Control Settings.md",
+    "tryhackme/windows fundementals/User Accounts, Profiles, and Permissions.md",
+    "tryhackme/HOW THE WEB WORKS/How Websites Work.md",
+    "tryhackme/HOW THE WEB WORKS/HTTP in Detail.md",
+    "tryhackme/windows fundementals/Windows Update.md",
+    "tryhackme/xfreeRDP.md",
+    "tryhackme/windows fundementals/Windows Registry.md",
+    "tryhackme/windows fundementals/Command Prompt.md",
     "tryhackme/windows fundementals/System Information.md",
     "tryhackme/windows fundementals/Computer Management.md",
-    "tryhackme/windows fundementals/User Account Control Settings.md",
     "tryhackme/windows fundementals/System Configurations.md",
     "Overthewire/Bandit.md",
-    "tryhackme/windows fundementals/File system.md",
-    "tryhackme/linux fundamentals/logs.md",
-    "tryhackme/linux fundamentals/General and useful utilities.md",
-    "tryhackme/linux fundamentals/comon directories.md",
-    "tryhackme/windows fundementals/Task Manager.md",
-    "tryhackme/windows fundementals/User Account Control.md",
-    "tryhackme/windows fundementals/Windows+ system32 Folders.md",
-    "tryhackme/phishing.md",
-    "tryhackme/RDP.md",
-    "tryhackme/rita.md",
-    "tryhackme/xss.md",
-    "tryhackme/HOW THE WEB WORKS/Putting It All Together.md",
     "attachments/web_steps.png",
     "attachments/swappy-20260102-200405.png",
     "attachments/weboverview.webp",
-    "tryhackme/HOW THE WEB WORKS/How Websites Work.md",
     "attachments/webR.png",
-    "tryhackme/HOW THE WEB WORKS/HTTP in Detail.md",
     "attachments/web.png",
-    "tryhackme/HOW THE WEB WORKS/DNS in Detail.md",
-    "tryhackme/Network fundamentals/VPN Basics.md",
-    "tryhackme/Network fundamentals/UDP.md",
-    "tryhackme/Network fundamentals/TCP.md",
     "tryhackme/HOW THE WEB WORKS",
     "tryhackme/windows fundementals",
     "attachments",
