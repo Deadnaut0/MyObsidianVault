@@ -2,3 +2,4 @@
 - [[Linux Fundementals Links]]
 - [[Network fundamentals Links]]
 - [[extra windows]]
+- [[AD Links]]
