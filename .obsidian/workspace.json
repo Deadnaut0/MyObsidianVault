@@ -11,10 +11,14 @@
             "id": "8f4a317c18b774d8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Learning machines/tryhackme/command lines/Windows Command Line.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Windows Command Line"
             }
           }
         ]
@@ -168,6 +172,8 @@
   },
   "active": "8f4a317c18b774d8",
   "lastOpenFiles": [
+    "Learning machines/tryhackme/command lines/Windows Command Line.md",
+    "Learning machines/tryhackme/command lines",
     "Learning machines/tryhackme/active directory/AD Links.md",
     "Learning machines/tryhackme/active directory/Active Directory.md",
     "Learning machines/tryhackme/Tryhackme Links.md",
@@ -201,14 +207,12 @@
     "Learning machines/tryhackme/windows fundementals/Windows Security.md",
     "Learning machines/tryhackme/windows fundementals/User Account Control Settings.md",
     "Learning machines/tryhackme/windows fundementals/User Accounts, Profiles, and Permissions.md",
-    "Learning machines/tryhackme/HOW THE WEB WORKS/How Websites Work.md",
     "attachments/web_steps.png",
     "attachments/swappy-20260102-200405.png",
     "attachments/weboverview.webp",
     "attachments/webR.png",
     "attachments/web.png",
     "Learning machines/tryhackme/HOW THE WEB WORKS",
-    "Learning machines/tryhackme/windows fundementals",
-    "attachments"
+    "Learning machines/tryhackme/windows fundementals"
   ]
 }
