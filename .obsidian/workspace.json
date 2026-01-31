@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning machines/tryhackme/command lines/Windows Command Line.md",
+                "file": "Learning machines/tryhackme/command lines/Linux Shells.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windows Command Line"
+              "title": "Linux Shells"
             }
           }
         ]
@@ -172,6 +172,8 @@
   },
   "active": "8f4a317c18b774d8",
   "lastOpenFiles": [
+    "Learning machines/tryhackme/command lines/Windows PowerShell.md",
+    "Learning machines/tryhackme/command lines/Linux Shells.md",
     "Learning machines/tryhackme/command lines/Windows Command Line.md",
     "Learning machines/tryhackme/command lines",
     "Learning machines/tryhackme/active directory/AD Links.md",
@@ -205,8 +207,6 @@
     "Learning machines/tryhackme/HOW THE WEB WORKS/DNS in Detail.md",
     "Learning machines/tryhackme/windows fundementals/Volume Shadow Copy Service.md",
     "Learning machines/tryhackme/windows fundementals/Windows Security.md",
-    "Learning machines/tryhackme/windows fundementals/User Account Control Settings.md",
-    "Learning machines/tryhackme/windows fundementals/User Accounts, Profiles, and Permissions.md",
     "attachments/web_steps.png",
     "attachments/swappy-20260102-200405.png",
     "attachments/weboverview.webp",
