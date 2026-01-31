@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning machines/tryhackme/command lines/Linux Shells.md",
+                "file": "Learning machines/tryhackme/Network fundamentals/Telnet and Encapsulation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux Shells"
+              "title": "Telnet and Encapsulation"
             }
           }
         ]
@@ -172,13 +172,18 @@
   },
   "active": "8f4a317c18b774d8",
   "lastOpenFiles": [
-    "Learning machines/tryhackme/command lines/Windows PowerShell.md",
+    "Learning machines/tryhackme/phishing.md",
+    "Learning machines/tryhackme/Network fundamentals/Telnet and Encapsulation.md",
+    "Learning machines/tryhackme/rita.md",
+    "Learning machines/tryhackme/Tryhackme Links.md",
+    "Learning machines/tryhackme/xfreeRDP.md",
+    "Learning machines/tryhackme/xss.md",
     "Learning machines/tryhackme/command lines/Linux Shells.md",
     "Learning machines/tryhackme/command lines/Windows Command Line.md",
+    "Learning machines/tryhackme/command lines/Windows PowerShell.md",
     "Learning machines/tryhackme/command lines",
     "Learning machines/tryhackme/active directory/AD Links.md",
     "Learning machines/tryhackme/active directory/Active Directory.md",
-    "Learning machines/tryhackme/Tryhackme Links.md",
     "Learning machines/tryhackme/active directory/Trees,Forests and Trusts.md",
     "Learning machines/tryhackme/active directory/Authentication Methods.md",
     "Learning machines/tryhackme/active directory/Group Policies.md",
@@ -202,11 +207,6 @@
     "Learning machines/tryhackme/windows fundementals/Resource Monitor.md",
     "Learning machines/tryhackme/windows fundementals/File system.md",
     "Learning machines/tryhackme/HOW THE WEB WORKS/WEB Basics Links.md",
-    "Learning machines/tryhackme/Network fundamentals/Network fundamentals Links.md",
-    "Learning machines/tryhackme/linux fundamentals/Linux Fundementals Links.md",
-    "Learning machines/tryhackme/HOW THE WEB WORKS/DNS in Detail.md",
-    "Learning machines/tryhackme/windows fundementals/Volume Shadow Copy Service.md",
-    "Learning machines/tryhackme/windows fundementals/Windows Security.md",
     "attachments/web_steps.png",
     "attachments/swappy-20260102-200405.png",
     "attachments/weboverview.webp",
