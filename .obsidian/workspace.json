@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning machines/tryhackme/Network fundamentals/NAT.md",
+                "file": "Learning machines/Overthewire/Bandit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NAT"
+              "title": "Bandit"
             }
           }
         ]
@@ -172,26 +172,26 @@
   },
   "active": "8f4a317c18b774d8",
   "lastOpenFiles": [
-    "Learning machines/tryhackme/Network fundamentals/Routing.md",
+    "Learning machines/tryhackme/Tryhackme Links.md",
+    "Learning machines/tryhackme/rita.md",
+    "Learning machines/tryhackme/phishing.md",
+    "Learning machines/tryhackme/active directory/Group Policies.md",
+    "Learning machines/tryhackme/active directory/Authentication Methods.md",
+    "Learning machines/tryhackme/active directory/AD Links.md",
+    "Learning machines/tryhackme/active directory/Active Directory.md",
     "Learning machines/tryhackme/Network fundamentals/NAT.md",
+    "Learning machines/tryhackme/Network fundamentals/Routing.md",
     "Learning machines/tryhackme/Network fundamentals/ICMP.md",
     "Learning machines/tryhackme/Network fundamentals/ARP.md",
     "Learning machines/tryhackme/Network fundamentals/DHCP Give Me My Network Settings.md",
     "Learning machines/tryhackme/Network fundamentals/Telnet and Encapsulation.md",
-    "Learning machines/tryhackme/phishing.md",
-    "Learning machines/tryhackme/rita.md",
-    "Learning machines/tryhackme/Tryhackme Links.md",
     "Learning machines/tryhackme/xfreeRDP.md",
     "Learning machines/tryhackme/xss.md",
     "Learning machines/tryhackme/command lines/Linux Shells.md",
     "Learning machines/tryhackme/command lines/Windows Command Line.md",
     "Learning machines/tryhackme/command lines/Windows PowerShell.md",
     "Learning machines/tryhackme/command lines",
-    "Learning machines/tryhackme/active directory/AD Links.md",
-    "Learning machines/tryhackme/active directory/Active Directory.md",
     "Learning machines/tryhackme/active directory/Trees,Forests and Trusts.md",
-    "Learning machines/tryhackme/active directory/Authentication Methods.md",
-    "Learning machines/tryhackme/active directory/Group Policies.md",
     "Learning machines/tryhackme/active directory/Managing Computers in AD.md",
     "Learning machines/tryhackme/active directory/Managing users in AD.md",
     "Learning machines/tryhackme/active directory/INTRO.md",
